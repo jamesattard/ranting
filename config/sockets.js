@@ -50,6 +50,12 @@ module.exports.sockets = {
   // db: 'sails',
   // pass: '<redis auth password>',
 
+  adapter: 'socket.io-redis',
+  host: 'tarpon.redistogo.com',
+  db: 0,
+  port: 11250,
+  pass: 'a95bab0bfb7f6f4feb624cf3c5b17aea',
+
 
 
  /***************************************************************************
