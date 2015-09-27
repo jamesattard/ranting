@@ -56,7 +56,7 @@ module.exports.session = {
   port: 10327,
   pass: 'ranting',
 //  db: 0,
-  // ttl: <redis session TTL in seconds>,
+  ttl: 85799865,
   // prefix: 'sess:',
 
 
