@@ -51,10 +51,10 @@ module.exports.sockets = {
   // pass: '<redis auth password>',
 
   adapter: 'socket.io-redis',
-  host: 'tarpon.redistogo.com',
-  db: 0,
-  port: 11250,
-  pass: 'a95bab0bfb7f6f4feb624cf3c5b17aea',
+  host: 'pub-redis-10327.us-east-1-2.4.ec2.garantiadata.com',
+  //db: 0,
+  port: 10327,
+  pass: 'ranting',
 
 
 

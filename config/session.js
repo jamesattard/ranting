@@ -52,10 +52,10 @@ module.exports.session = {
   *                                                                          *
   ***************************************************************************/
 
-  host: 'tarpon.redistogo.com',
-  port: 11250,
-  pass: 'a95bab0bfb7f6f4feb624cf3c5b17aea',
-  db: 0,
+  host: 'pub-redis-10327.us-east-1-2.4.ec2.garantiadata.com',
+  port: 10327,
+  pass: 'ranting',
+//  db: 0,
   // ttl: <redis session TTL in seconds>,
   // prefix: 'sess:',
 
