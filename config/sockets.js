@@ -50,11 +50,11 @@ module.exports.sockets = {
   // db: 'sails',
   // pass: '<redis auth password>',
 
-  adapter: 'socket.io-redis',
-  host: 'pub-redis-10327.us-east-1-2.4.ec2.garantiadata.com',
+//  adapter: 'socket.io-redis',
+//  host: 'pub-redis-10327.us-east-1-2.4.ec2.garantiadata.com',
   //db: 0,
-  port: 10327,
-  pass: 'ranting',
+//  port: 10327,
+//  pass: 'ranting',
 
 
 

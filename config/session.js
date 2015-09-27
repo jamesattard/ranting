@@ -41,7 +41,7 @@ module.exports.session = {
   * session store that can be shared across multiple Sails.js servers        *
   ***************************************************************************/
 
-  adapter: 'redis',
+ // adapter: 'redis',
 
   /***************************************************************************
   *                                                                          *
@@ -52,11 +52,11 @@ module.exports.session = {
   *                                                                          *
   ***************************************************************************/
 
-  host: 'pub-redis-10327.us-east-1-2.4.ec2.garantiadata.com',
-  port: 10327,
-  pass: 'ranting',
+//  host: 'pub-redis-10327.us-east-1-2.4.ec2.garantiadata.com',
+//  port: 10327,
+//  pass: 'ranting',
 //  db: 0,
-  ttl: 85799865,
+//  ttl: 85799865,
   // prefix: 'sess:',
 
 
