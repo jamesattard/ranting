@@ -1,3 +1,3 @@
-# platzi
+# Ranting 
 
-a [Sails](http://sailsjs.org) application
+Messing aroung with [Sails.js](http://sailsjs.org)...
